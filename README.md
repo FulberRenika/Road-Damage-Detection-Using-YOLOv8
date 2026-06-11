@@ -33,6 +33,18 @@ RDD2022 Road Damage Dataset
 - Image Size: 640
 - Batch Size: 16
 
+## Sample Prediction
+
+![Prediction](screenshots/prediction_example.png)
+
+## Training Results
+
+![Results](results/results.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](results/confusion_matrix.png)
+
 ## Results
 
 The trained model can detect multiple categories of road damage from road images.
